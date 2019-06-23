@@ -1,0 +1,503 @@
+Initialize engine version: 5.6.7f1 (e80cc3114ac1)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: Intel(R) UHD Graphics 620 (ID=0x5917)
+    Vendor:   Intel
+    VRAM:     3168 MB
+    Driver:   24.20.100.6025
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Program Files (x86)\Origin Games\Cities Skylines\Cities_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Program Files (x86)\Origin Games\Cities Skylines\Cities_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Program Files (x86)\Origin Games\Cities Skylines\Cities_Data\Managed\Assembly-CSharp-firstpass.dll (this message is harmless)
+Loading C:\Program Files (x86)\Origin Games\Cities Skylines\Cities_Data\Managed\Assembly-CSharp-firstpass.dll into Unity Child Domain
+Platform assembly: C:\Program Files (x86)\Origin Games\Cities Skylines\Cities_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Program Files (x86)\Origin Games\Cities Skylines\Cities_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Program Files (x86)\Origin Games\Cities Skylines\Cities_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Program Files (x86)\Origin Games\Cities Skylines\Cities_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Program Files (x86)\Origin Games\Cities Skylines\Cities_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Program Files (x86)\Origin Games\Cities Skylines\Cities_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: C:\Program Files (x86)\Origin Games\Cities Skylines\Cities_Data\Managed\ColossalManaged.dll (this message is harmless)
+Loading C:\Program Files (x86)\Origin Games\Cities Skylines\Cities_Data\Managed\ColossalManaged.dll into Unity Child Domain
+Platform assembly: C:\Program Files (x86)\Origin Games\Cities Skylines\Cities_Data\Managed\ICSharpCode.SharpZipLib.dll (this message is harmless)
+Loading C:\Program Files (x86)\Origin Games\Cities Skylines\Cities_Data\Managed\ICSharpCode.SharpZipLib.dll into Unity Child Domain
+Platform assembly: C:\Program Files (x86)\Origin Games\Cities Skylines\Cities_Data\Managed\ICities.dll (this message is harmless)
+Loading C:\Program Files (x86)\Origin Games\Cities Skylines\Cities_Data\Managed\ICities.dll into Unity Child Domain
+Platform assembly: C:\Program Files (x86)\Origin Games\Cities Skylines\Cities_Data\Managed\PopsApiWrapper.dll (this message is harmless)
+Loading C:\Program Files (x86)\Origin Games\Cities Skylines\Cities_Data\Managed\PopsApiWrapper.dll into Unity Child Domain
+- Completed reload, in  0.239 seconds
+Platform assembly: C:\Program Files (x86)\Origin Games\Cities Skylines\Cities_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Program Files (x86)\Origin Games\Cities Skylines\Cities_Data\Managed\System.dll (this message is harmless)
+<RI> Initializing input.
+<RI> Input initialized.
+desktop: 1920x1080 60Hz; virtual: 1920x1080 at 0,0
+<RI> Initialized touch support.
+UnloadTime: 0.884620 ms
+Game mode
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.216746 ms
+Machine ID: d393fc2460180daad0191ccf340c09a44c2609be
+Model: HP ENVY x360 Convertible 15m-bp1xx (HP)
+OS: Windows 10  (10.0.0) 64bit
+Language: English
+CPU: Intel(R) Core(TM) i5-8250U CPU @ 1.60GHz (8 core(s))
+System Memory: 12161
+Gfx Device: Intel(R) UHD Graphics 620
+Gfx Version: Direct3D 11.0 [level 11.1]
+Gfx Memory: 3168
+Gfx Shader Model: 50
+Game Version: 1.12.1-f2-steam-win
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Non platform assembly: C:\Program Files (x86)\Origin Games\Cities Skylines\OriginBridge.dll (this message is harmless)
+Non platform assembly: C:\Program Files (x86)\Origin Games\Cities Skylines\OriginSDK.dll (this message is harmless)
+Platform assembly: C:\Program Files (x86)\Origin Games\Cities Skylines\Cities_Data\Managed\System.Configuration.dll (this message is harmless)
+Platform assembly: C:\Program Files (x86)\Origin Games\Cities Skylines\Cities_Data\Managed\System.Xml.dll (this message is harmless)
+Origin Bridge Behaviour Initialize
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+API: Origin Type: Origin
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Setting vsync to 1  [Core]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Raw Command Line: C:\Program Files (x86)\Origin Games\Cities Skylines\Cities.exe
+Arguments: C:\Program Files (x86)\Origin Games\Cities Skylines\Cities.exe
+  [CommandLine - Internal]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Platform assembly: C:\Program Files (x86)\Origin Games\Cities Skylines\Cities_Data\Managed\Mono.Security.dll (this message is harmless)
+Adding package 'CL Marin Bay' [C:\Program Files (x86)\Origin Games\Cities Skylines\Files\Maps\CL Marin Bay.crp]  [Packer - Internal]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Adding package 'CL Murky Coast' [C:\Program Files (x86)\Origin Games\Cities Skylines\Files\Maps\CL Murky Coast.crp]  [Packer - Internal]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Adding package 'CL Northwood Hills' [C:\Program Files (x86)\Origin Games\Cities Skylines\Files\Maps\CL Northwood Hills.crp]  [Packer - Internal]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Adding package 'CL Roslyn Peninsula' [C:\Program Files (x86)\Origin Games\Cities Skylines\Files\Maps\CL Roslyn Peninsula.crp]  [Packer - Internal]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Adding package 'CL Wolf Creek' [C:\Program Files (x86)\Origin Games\Cities Skylines\Files\Maps\CL Wolf Creek.crp]  [Packer - Internal]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Adding package 'Cliffside Bay' [C:\Program Files (x86)\Origin Games\Cities Skylines\Files\Maps\Cliffside Bay.crp]  [Packer - Internal]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Adding package 'System' [C:\Program Files (x86)\Origin Games\Cities Skylines\Files\Maps\CO.crp]  [Packer - Internal]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Adding package 'Eden Valley2' [C:\Program Files (x86)\Origin Games\Cities Skylines\Files\Maps\Eden Valley2.crp]  [Packer - Internal]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Adding package 'Foggy Hills' [C:\Program Files (x86)\Origin Games\Cities Skylines\Files\Maps\Foggy Hills.crp]  [Packer - Internal]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Adding package 'Garden Rivers2' [C:\Program Files (x86)\Origin Games\Cities Skylines\Files\Maps\Garden Rivers2.crp]  [Packer - Internal]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Adding package 'Grand River' [C:\Program Files (x86)\Origin Games\Cities Skylines\Files\Maps\Grand River.crp]  [Packer - Internal]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Adding package 'IN Green Peaks' [C:\Program Files (x86)\Origin Games\Cities Skylines\Files\Maps\IN Green Peaks.crp]  [Packer - Internal]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Adding package 'IN Marble Canyon' [C:\Program Files (x86)\Origin Games\Cities Skylines\Files\Maps\IN Marble Canyon.crp]  [Packer - Internal]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Adding package 'IN Pearl Bay' [C:\Program Files (x86)\Origin Games\Cities Skylines\Files\Maps\IN Pearl Bay.crp]  [Packer - Internal]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Adding package 'IN Twin Fjords' [C:\Program Files (x86)\Origin Games\Cities Skylines\Files\Maps\IN Twin Fjords.crp]  [Packer - Internal]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Adding package 'IN Woodgarden' [C:\Program Files (x86)\Origin Games\Cities Skylines\Files\Maps\IN Woodgarden.crp]  [Packer - Internal]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Adding package 'Lavender Lake2' [C:\Program Files (x86)\Origin Games\Cities Skylines\Files\Maps\Lavender Lake2.crp]  [Packer - Internal]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Adding package 'MT Ferry Empire' [C:\Program Files (x86)\Origin Games\Cities Skylines\Files\Maps\MT Ferry Empire.crp]  [Packer - Internal]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Adding package 'MT Fix The Traffic' [C:\Program Files (x86)\Origin Games\Cities Skylines\Files\Maps\MT Fix The Traffic.crp]  [Packer - Internal]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Adding package 'MT Trains' [C:\Program Files (x86)\Origin Games\Cities Skylines\Files\Maps\MT Trains.crp]  [Packer - Internal]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Adding package 'ND Alpine Villages' [C:\Program Files (x86)\Origin Games\Cities Skylines\Files\Maps\ND Alpine Villages.crp]  [Packer - Internal]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Adding package 'ND By The Dam' [C:\Program Files (x86)\Origin Games\Cities Skylines\Files\Maps\ND By The Dam.crp]  [Packer - Internal]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Adding package 'ND Floodland' [C:\Program Files (x86)\Origin Games\Cities Skylines\Files\Maps\ND Floodland.crp]  [Packer - Internal]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Adding package 'ND Island Hopping' [C:\Program Files (x86)\Origin Games\Cities Skylines\Files\Maps\ND Island Hopping.crp]  [Packer - Internal]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Adding package 'ND Tornado Country' [C:\Program Files (x86)\Origin Games\Cities Skylines\Files\Maps\ND Tornado Country.crp]  [Packer - Internal]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Adding package 'NorthEurope1FINAL' [C:\Program Files (x86)\Origin Games\Cities Skylines\Files\Maps\NorthEurope1FINAL.crp]  [Packer - Internal]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Adding package 'NorthEurope2FINAL' [C:\Program Files (x86)\Origin Games\Cities Skylines\Files\Maps\NorthEurope2FINAL.crp]  [Packer - Internal]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Adding package 'NorthEurope3FINAL' [C:\Program Files (x86)\Origin Games\Cities Skylines\Files\Maps\NorthEurope3FINAL.crp]  [Packer - Internal]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Adding package 'PL Cavern Coast' [C:\Program Files (x86)\Origin Games\Cities Skylines\Files\Maps\PL Cavern Coast.crp]  [Packer - Internal]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Adding package 'PL Honu Island' [C:\Program Files (x86)\Origin Games\Cities Skylines\Files\Maps\PL Honu Island.crp]  [Packer - Internal]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Adding package 'PL Mountain Meadows' [C:\Program Files (x86)\Origin Games\Cities Skylines\Files\Maps\PL Mountain Meadows.crp]  [Packer - Internal]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Adding package 'PL Pine Rivers' [C:\Program Files (x86)\Origin Games\Cities Skylines\Files\Maps\PL Pine Rivers.crp]  [Packer - Internal]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Adding package 'PL Windfield' [C:\Program Files (x86)\Origin Games\Cities Skylines\Files\Maps\PL Windfield.crp]  [Packer - Internal]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Adding package 'SouthEurope1FINAL' [C:\Program Files (x86)\Origin Games\Cities Skylines\Files\Maps\SouthEurope1FINAL.crp]  [Packer - Internal]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Adding package 'SouthEurope2FINAL' [C:\Program Files (x86)\Origin Games\Cities Skylines\Files\Maps\SouthEurope2FINAL.crp]  [Packer - Internal]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Adding package 'SouthEurope3FINAL' [C:\Program Files (x86)\Origin Games\Cities Skylines\Files\Maps\SouthEurope3FINAL.crp]  [Packer - Internal]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Adding package 'Tropical1FINAL' [C:\Program Files (x86)\Origin Games\Cities Skylines\Files\Maps\Tropical1FINAL.crp]  [Packer - Internal]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Adding package 'Tropical2FINAL' [C:\Program Files (x86)\Origin Games\Cities Skylines\Files\Maps\Tropical2FINAL.crp]  [Packer - Internal]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Adding package 'Tropical3FINAL' [C:\Program Files (x86)\Origin Games\Cities Skylines\Files\Maps\Tropical3FINAL.crp]  [Packer - Internal]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Adding package 'Winter1Final' [C:\Program Files (x86)\Origin Games\Cities Skylines\Files\Maps\Winter1Final.crp]  [Packer - Internal]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Adding package 'Winter2Final' [C:\Program Files (x86)\Origin Games\Cities Skylines\Files\Maps\Winter2Final.crp]  [Packer - Internal]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Fallback handler could not load library C:/Program Files (x86)/Origin Games/Cities Skylines/Cities_Data/Mono/libc
+Fallback handler could not load library C:/Program Files (x86)/Origin Games/Cities Skylines/Cities_Data/Mono/.\libc
+Fallback handler could not load library C:/Program Files (x86)/Origin Games/Cities Skylines/Cities_Data/Mono/libc
+Adding package 'Winter3Final' [C:\Program Files (x86)\Origin Games\Cities Skylines\Files\Maps\Winter3Final.crp]  [Packer - Internal]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Adding package 'Winter4Final' [C:\Program Files (x86)\Origin Games\Cities Skylines\Files\Maps\Winter4Final.crp]  [Packer - Internal]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Adding package 'Winter5Final' [C:\Program Files (x86)\Origin Games\Cities Skylines\Files\Maps\Winter5Final.crp]  [Packer - Internal]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Adding package 'Alpine Villages' [C:\Program Files (x86)\Origin Games\Cities Skylines\Files\Scenarios\Alpine Villages.crp]  [Packer - Internal]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+System.TypeInitializationException: An exception was thrown by the type initializer for Mono.CSharp.CSharpCodeCompiler ---> System.IO.FileNotFoundException: Windows mono path not found: C:\Program Files (x86)\mono\mono\mini\mono.exe
+  at Mono.CSharp.CSharpCodeCompiler..cctor () [0x00000] in <filename unknown>:0 
+  --- End of inner exception stack trace ---
+  at Microsoft.CSharp.CSharpCodeProvider.CreateCompiler () [0x00000] in <filename unknown>:0 
+  at System.Xml.Serialization.XmlSerializer.GenerateSerializers (System.Xml.Serialization.GenerationBatch batch, System.CodeDom.Compiler.CompilerParameters cp) [0x00000] in <filename unknown>:0 
+  at System.Xml.Serialization.XmlSerializer.RunSerializerGeneration (System.Object obj) [0x00000] in <filename unknown>:0 
+Adding package 'By The Dam' [C:\Program Files (x86)\Origin Games\Cities Skylines\Files\Scenarios\By The Dam.crp]  [Packer - Internal]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Adding package 'City of Gardens' [C:\Program Files (x86)\Origin Games\Cities Skylines\Files\Scenarios\City of Gardens.crp]  [Packer - Internal]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Adding package 'Clean Up Crew' [C:\Program Files (x86)\Origin Games\Cities Skylines\Files\Scenarios\Clean Up Crew.crp]  [Packer - Internal]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Adding package 'Ferry Empire' [C:\Program Files (x86)\Origin Games\Cities Skylines\Files\Scenarios\Ferry Empire.crp]  [Packer - Internal]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Adding package 'Fix the Traffic' [C:\Program Files (x86)\Origin Games\Cities Skylines\Files\Scenarios\Fix the Traffic.crp]  [Packer - Internal]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Adding package 'Floodland' [C:\Program Files (x86)\Origin Games\Cities Skylines\Files\Scenarios\Floodland.crp]  [Packer - Internal]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Adding package 'Green Power' [C:\Program Files (x86)\Origin Games\Cities Skylines\Files\Scenarios\Green Power.crp]  [Packer - Internal]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Adding package 'Island Hopping' [C:\Program Files (x86)\Origin Games\Cities Skylines\Files\Scenarios\Island Hopping.crp]  [Packer - Internal]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Adding package 'Tornado Country' [C:\Program Files (x86)\Origin Games\Cities Skylines\Files\Scenarios\Tornado Country.crp]  [Packer - Internal]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Adding package 'Trains' [C:\Program Files (x86)\Origin Games\Cities Skylines\Files\Scenarios\Trains.crp]  [Packer - Internal]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Adding package 'Lakedale' [C:\Users\shane\AppData\Local\Colossal Order\Cities_Skylines\Saves\Lakedale.crp]  [Packer - Internal]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Adding package 'Lakevalley' [C:\Users\shane\AppData\Local\Colossal Order\Cities_Skylines\Saves\Lakevalley.crp]  [Packer - Internal]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Adding package 'NewSave' [C:\Users\shane\AppData\Local\Colossal Order\Cities_Skylines\Saves\NewSave.crp]  [Packer - Internal]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Adding package 'Portes' [C:\Users\shane\AppData\Local\Colossal Order\Cities_Skylines\Saves\Portes.crp]  [Packer - Internal]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Adding package 'Rennville' [C:\Users\shane\AppData\Local\Colossal Order\Cities_Skylines\Saves\Rennville.crp]  [Packer - Internal]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Adding package 'San Rico' [C:\Users\shane\AppData\Local\Colossal Order\Cities_Skylines\Saves\San Rico.crp]  [Packer - Internal]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Adding package 'Westfield' [C:\Users\shane\AppData\Local\Colossal Order\Cities_Skylines\Saves\Westfield.crp]  [Packer - Internal]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Loading C:\Users\shane\AppData\Local\Colossal Order\Cities_Skylines\userGameState.cgs  [Settings - Internal]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Non platform assembly: data-00000000198A96A0 (this message is harmless)
+Fallback handler could not load library C:/Program Files (x86)/Origin Games/Cities Skylines/Cities_Data/Mono/data-00000000198A96A0.dll
+Non platform assembly: data-0000000019931030 (this message is harmless)
+Fallback handler could not load library C:/Program Files (x86)/Origin Games/Cities Skylines/Cities_Data/Mono/data-0000000019931030.dll
+Non platform assembly: data-0000000019931E40 (this message is harmless)
+Fallback handler could not load library C:/Program Files (x86)/Origin Games/Cities Skylines/Cities_Data/Mono/data-0000000019931E40.dll
+Non platform assembly: data-0000000019933050 (this message is harmless)
+Fallback handler could not load library C:/Program Files (x86)/Origin Games/Cities Skylines/Cities_Data/Mono/data-0000000019933050.dll
+Non platform assembly: data-0000000019934260 (this message is harmless)
+Fallback handler could not load library C:/Program Files (x86)/Origin Games/Cities Skylines/Cities_Data/Mono/data-0000000019934260.dll
+Loading C:\Program Files (x86)\Origin Games\Cities Skylines\Files\Mods\HardMode\HardMode.dll  [Mods - Internal]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Non platform assembly: data-00000000165A8040 (this message is harmless)
+Fallback handler could not load library C:/Program Files (x86)/Origin Games/Cities Skylines/Cities_Data/Mono/data-00000000165A8040.dll
+Assembly HardMode0, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null loaded.  [Mods - Internal]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Loading C:\Program Files (x86)\Origin Games\Cities Skylines\Files\Mods\UnlimitedMoney\UnlimitedMoney.dll  [Mods - Internal]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Non platform assembly: data-0000000019936070 (this message is harmless)
+Fallback handler could not load library C:/Program Files (x86)/Origin Games/Cities Skylines/Cities_Data/Mono/data-0000000019936070.dll
+Assembly UnlimitedMoney2, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null loaded.  [Mods - Internal]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Loading C:\Program Files (x86)\Origin Games\Cities Skylines\Files\Mods\UnlimitedOilAndOre\UnlimitedOilAndOre.dll  [Mods - Internal]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Non platform assembly: data-00000000165A9850 (this message is harmless)
+Fallback handler could not load library C:/Program Files (x86)/Origin Games/Cities Skylines/Cities_Data/Mono/data-00000000165A9850.dll
+Assembly UnlimitedOilAndOre, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null loaded.  [Mods - Internal]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Loading C:\Program Files (x86)\Origin Games\Cities Skylines\Files\Mods\UnlimitedSoil\UnlimitedSoil.dll  [Mods - Internal]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Non platform assembly: data-00000000165AAA60 (this message is harmless)
+Fallback handler could not load library C:/Program Files (x86)/Origin Games/Cities Skylines/Cities_Data/Mono/data-00000000165AAA60.dll
+Assembly UnlimitedSoil, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null loaded.  [Mods - Internal]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Loading C:\Program Files (x86)\Origin Games\Cities Skylines\Files\Mods\UnlockAll\UnlockAll.dll  [Mods - Internal]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Non platform assembly: data-00000000165ABC70 (this message is harmless)
+Fallback handler could not load library C:/Program Files (x86)/Origin Games/Cities Skylines/Cities_Data/Mono/data-00000000165ABC70.dll
+Assembly UnlockAll0, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null loaded.  [Mods - Internal]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Loading locale: en
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Substitution failed for 'CONTENT_BUY_ORIGIN[RadioStation5]:0' -> 'CONTENT_BUY[RadioStation5]:0'
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Simulation started  [Core]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+PopsApi: Initializing file IO
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+PopsApi: Init complete
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+PopsApi: Pushing task: 1
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 2329.
+Total: 5.783885 ms (FindLiveObjects: 0.106950 ms CreateObjectMapping: 0.101830 ms MarkObjects: 5.564863 ms  DeleteObjects: 0.009671 ms)
+
+GfxDevice: creating device client; threaded=1
+GfxDevice: creating device client; threaded=1
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.347590 ms
+
+Unloading 6 unused Assets to reduce memory usage. Loaded Objects now: 2370.
+Total: 33.716858 ms (FindLiveObjects: 0.117190 ms CreateObjectMapping: 0.119466 ms MarkObjects: 33.465977 ms  DeleteObjects: 0.013653 ms)
+
+PopsApi: Popping task: 1
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+PopsApi: Pushing task: 2
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+PopsApi: Pushing task: 3
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+PopsApi: Popping task: 3
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Title: Terms-of-use-2019-04-05
+PopsApi: Popping task: 2
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Title: privacy-policy-2018-11-02
+GfxDevice: creating device client; threaded=1
+GfxDevice: creating device client; threaded=1
+Waiting for simulation to quit...  [Core]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+PopsApi: Shutdown complete
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Setting up 4 worker threads for Enlighten.
+  Thread -> id: 277c -> priority: 1 
+  Thread -> id: 3980 -> priority: 1 
+  Thread -> id: 4600 -> priority: 1 
+  Thread -> id: 3408 -> priority: 1 
+GameSettings Monitor Exiting...  [Settings - Internal]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+GameSettings terminated  [Settings - Internal]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Simulation terminated  [Core]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Colossal Handler caught: A request to send or receive data was disallowed because the socket is not connected and (when sending on a datagram socket using a sendto call) no address was supplied.
+
+  at System.Net.Sockets.Socket.Disconnect (Boolean reuseSocket) [0x00000] in <filename unknown>:0 
+  at Origin.Connection.Disconnect () [0x00000] in <filename unknown>:0 
+  at Origin.Connection.ReceiveAsyncEvent (System.Object sender, System.Net.Sockets.SocketAsyncEventArgs e) [0x00000] in <filename unknown>:0 
+  at System.Net.Sockets.SocketAsyncEventArgs.OnCompleted (System.Net.Sockets.SocketAsyncEventArgs e) [0x00000] in <filename unknown>:0 
+  at System.Net.Sockets.SocketAsyncEventArgs.ReceiveCallback () [0x00000] in <filename unknown>:0 
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Runtime terminating: True
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+The game will now crash. Sorry for the inconvenience...
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
